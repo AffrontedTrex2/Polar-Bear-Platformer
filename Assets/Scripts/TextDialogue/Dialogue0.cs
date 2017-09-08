@@ -74,7 +74,7 @@ public class Dialogue0 : MonoBehaviour
         if (nextLevel == false)
         {
             Debug.Log("Helloeoeoeoeo");
-            SceneManager.LoadScene("Level1");
+            SceneManager.LoadScene("Dialogue1");
             nextLevel = true;
         }
     }
